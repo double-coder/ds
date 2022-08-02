@@ -7,4 +7,5 @@ func main() {
 	x.Add(2)
 
 	fmt.Println(x.String())
+	fmt.Println(generate(5))
 }
