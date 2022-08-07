@@ -8,4 +8,5 @@ func main() {
 
 	fmt.Println(x.String())
 	fmt.Println(generate(5))
+	fmt.Println(lengthOfLongestSubstring("abcbbc"))
 }
